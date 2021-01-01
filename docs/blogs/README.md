@@ -1,1 +1,6 @@
-Welcome to My Blog Pages.
+- [常用 git 命令](/blogs/commonly-used-git-command.md)
+- [如何给 .git 文件夹瘦身？](/blogs/clean-git-folder.md)
+- [JavaScript 类型转换](/blogs/javascript-type-conversion.md)
+- [在 CentOS 中搭建 cnpm 私有仓库](/blogs/build-cnpm-registry-on-centos.md)
+- [MacOS 在执行脚本时遇到 open too many files 解决办法](/blogs/macos-open-too-many-files.md)
+- [iTerm2+Git+Node+VSCode 配置](/blogs/iterm2-git-node-vscode-config.md)
