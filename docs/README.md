@@ -1,4 +1,4 @@
-* [博客](/blogs/)
+* [Blogs](/blogs/)
   - [常用 git 命令](/blogs/commonly-used-git-command.md)
   - [如何给 .git 文件夹瘦身？](/blogs/clean-git-folder.md)
   - [JavaScript 类型转换](/blogs/javascript-type-conversion.md)
